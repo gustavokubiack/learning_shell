@@ -8,3 +8,10 @@ echo "$ball"
 myName="Gustavo Kubiack"
 echo "My name is ${myName}"
 
+# storing commnad in a variable 
+
+myHome="/home"
+cd "$myHome"
+
+ls
+
