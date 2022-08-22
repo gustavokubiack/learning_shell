@@ -1,3 +1,3 @@
-# learning_shell
+# Learning Shell Script
 
-Basic shell script commands
+<h3> Basic Shell Script commands </h3>
